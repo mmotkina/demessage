@@ -1,11 +1,11 @@
 # Demessage
 
-Decentralized message service.
+Decentralized messaging service
 
-- No email needed, only wallet
-- Get important messages from web3 projects you follow in one place
-- Get personalized offers
-- No spam, only authorized projects allowed to send messages
+- No email needed, only a wallet
+- Get important messages from the web3 projects you follow, all in one place
+- Receive personalized offers
+- No spam — only authorized projects are allowed to send messages
 
 ## Testnet
 https://mmotkina.github.io/demessage/
