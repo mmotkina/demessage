@@ -6,6 +6,7 @@ Get personalized messages from web3 projects you follow
 - Get important messages from the web3 projects you follow, all in one place
 - No spam — only authorized projects are allowed to send messages
 - Receive personalized offers from projects
+- All data about subscriptions and allowed projects is public and transparent, stored in the contract
 
 ## Testnet
 https://mmotkina.github.io/demessage/
