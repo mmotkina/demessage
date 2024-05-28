@@ -4,8 +4,8 @@ Decentralized messaging service
 
 - No email needed, only a wallet
 - Get important messages from the web3 projects you follow, all in one place
-- Receive personalized offers
 - No spam — only authorized projects are allowed to send messages
+- Receive personalized offers from projects
 
 ## Testnet
 https://mmotkina.github.io/demessage/
