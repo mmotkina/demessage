@@ -1,6 +1,6 @@
 # Demessage
 
-Decentralized messaging service
+Get personalized messages from web3 projects you follow
 
 - No email needed, only a wallet
 - Get important messages from the web3 projects you follow, all in one place
